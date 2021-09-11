@@ -1,0 +1,1 @@
+# Analyse-Google-Trends-Search-Data-in-R-using-gtrendsR-
